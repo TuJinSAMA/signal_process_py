@@ -1,0 +1,6 @@
+venv/
+packages/
+__pycache__
+*.pyc
+start_server.bat
+.idea/
